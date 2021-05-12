@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi There , I am Yağmur Buse KARABIYIK</h1>
-<h3 align="center">I am Yağmur Buse KARABIYIK. I am Management Information Systems student in Ankara Yıldırım Beyazıt University.</h3>
+<h3 align="center"> I am Management Information Systems student in Ankara Yıldırım Beyazıt University.</h3>
 
 
 
