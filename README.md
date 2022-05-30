@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [HRMS-Project](https://github.com/yagmurbkarabiyik/HRMSProject)
+- 🔭 I’m currently working on [ASP.NET Core Blog Project](https://github.com/yagmurbkarabiyik/Asp.Net-Core-5.0-Blog-Project)
 
-- 🌱 I’m currently learning Java and React.  
+- 🌱 I’m currently learning C#.  
 
 - 📫 How to reach me: yagmurbkarabiyik@gmail.com
 
