@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [ASP.NET Core Blog Project](https://github.com/yagmurbkarabiyik/Asp.Net-Core-5.0-Blog-Project)
+- 🔭 I’m currently working on [Car Rental Project](https://github.com/yagmurbkarabiyik/CarRentalProject)
 
 - 🌱 I’m currently learning C#.  
 
