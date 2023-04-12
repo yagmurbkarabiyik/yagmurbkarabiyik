@@ -4,10 +4,6 @@
 
 
 
-- 🔭 I’m currently working on [Car Rental Project](https://github.com/yagmurbkarabiyik/CarRentalProject)
-
-- 🌱 I’m currently learning C#.  
-
 - 📫 How to reach me: yagmurbkarabiyik@gmail.com
 
 - 💻 You can reach and examination all of my [repositories](https://github.com/yagmurbkarabiyik?tab=repositories).
