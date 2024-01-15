@@ -1,15 +1,49 @@
-<h1 align="center"> 👋 Hi There , I am Yağmur Buse KARABIYIK</h1>
-<h3 align="center"> I am Management Information Systems student in Ankara Yıldırım Beyazıt University.</h3>
+<br clear="both">
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F6642F&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Yağmur+Buse!" alt="Typing SVG" /></a>
+</div>
 
+###
 
+<div align="left">
+  <a href="yagmurbkarabiyik@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yagmur-buse-karabiyik/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me: yagmurbkarabiyik@gmail.com
+###
 
-- 💻 You can reach and examination all of my [repositories](https://github.com/yagmurbkarabiyik?tab=repositories).
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+</div>
 
-<p align="center"><a href="https://www.linkedin.com/in/ya%C4%9Fmur-buse-karab%C4%B1y%C4%B1k-425357212/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yagmurbkarabiyik"></a></p>
+###
 
-<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=yagmurbkarabiyik&show_icons=true&theme=radical" alt="yagmurbkarabiyik"><img src="https://github-readme-stats.vercel.app/api?username=yagmurbkarabiyik&show_icons=true&theme=radical" alt="yagmurbkarabiyik" /></a> </p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagmurbkarabiyik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagmurbkarabiyik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mustafasameturan&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yagmurbkarabiyik&label=Profile%20views&color=0e75b6&style=flat" alt="yagmurbkarabiyik" /> </p>
+###
+
+<div align="middle">
+  <img src="https://raw.githubusercontent.com/mustafasameturan/mustafasameturan/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yagmurbkarabiyik/count.svg?"  />
+</div>
+
+###
