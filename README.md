@@ -39,7 +39,7 @@
 ###
 
 <div align="middle">
-  <img src="https://raw.githubusercontent.com/mustafasameturan/mustafasameturan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yagmurbkarabiyik/yagmurbkarabiyik/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
