@@ -1,53 +1,116 @@
-<br clear="both">
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=F6642F&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Yağmur+Buse;Full+Stack+Developer;.NET+%7C+React+Developer" />
+
+# 👋 Hi, I'm Yağmur Buse
+
+### Full Stack Developer
+
+Building modern, scalable and maintainable web applications with .NET and React.
+
+<p>
+<a href="mailto:yagmurbkarabiyik@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/yagmur-buse-karabiyik/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+- 💼 Full Stack Developer
+- ⚙️ Developing modern web applications using **ASP.NET Core** & **React**
+- 🏗️ Interested in scalable software architecture and clean code
+- 🗄️ Working with both **SQL** and **NoSQL** databases
+- 🌱 Continuously learning new technologies and best practices
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,js,ts" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+</p>
+
+### 🛠 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,visualstudio,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F6642F&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Yağmur+Buse!" alt="Typing SVG" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yagmurbkarabiyik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurbkarabiyik&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
+
+# 🌱 Currently Learning
+
+- React Ecosystem
+- TypeScript
+- ASP.NET Core
+- Clean Architecture
+- Microservices
+- Docker
+- Redis
+- RabbitMQ
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
-  <a href="yagmurbkarabiyik@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yagmur-buse-karabiyik/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
+
+<a href="mailto:yagmurbkarabiyik@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yagmur-buse-karabiyik/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
 </div>
 
-###
-
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagmurbkarabiyik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagmurbkarabiyik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yagmurbkarabiyik&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+![](https://komarev.com/ghpvc/?username=yagmurbkarabiyik&style=for-the-badge&color=0e75b6)
+
 </div>
-
-###
-
-<div align="middle">
-  <img src="https://raw.githubusercontent.com/yagmurbkarabiyik/yagmurbkarabiyik/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yagmurbkarabiyik/count.svg?"  />
-</div>
-
-###
